@@ -1,0 +1,2 @@
+java weka.clusterers.ClusterEvaluation weka.clusterers.SimpleKMeans -t iris.arff -p 0
+java weka.clusterers.ClusterEvaluation weka.clusterers.FastKMeans -t iris.arff -p 0
